@@ -1,0 +1,17 @@
+<resources>
+    <style name="Theme.ReadMeter" parent="Base.Theme.ReadMeter">
+
+    </style>
+
+<!--    <style name="Base.Theme.ReadMeter" parent="Theme.Material3.DayNight.NoActionBar">-->
+<!--        -->
+<!--    </style>-->
+
+    <style name="Base.Theme.ReadMeter" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first"
+        android:icon="@drawable/ic_action_water"
+        android:title="@string/title_water" />
+    <item
+        android:id="@+id/second"
+        android:icon="@drawable/ic_action_electrical"
+        android:title="@string/title_electrical" />
+    <item
+        android:id="@+id/third"
+        android:icon="@drawable/ic_action_raschets"
+        android:title="@string/title_metrecs" />
+
+</menu>

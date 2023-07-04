@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReadMeter</string>
+    <string name="title_fragment_water">фрагмент вода</string>
+
+    <string name="title_water">Водоснабжение</string>
+    <string name="title_electrical">"Электричество"</string>
+    <string name="title_metrecs">Расчеты</string>
+
+    <string name="title_delete">Удалить</string>
+    <string name="title_add">Добавить</string>
+    <string name="title_beam">Фонарик</string>
+</resources>
